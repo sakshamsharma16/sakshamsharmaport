@@ -10,7 +10,7 @@ const Portfolio = () => {
     title: "Annadata",
     subtitle: "Transforming Agriculture with AI, IoT & Market Intelligence",
     description: "Annadata is a groundbreaking agri-commerce platform designed to revolutionize the agricultural supply chain by directly connecting farmers, vendors, and consumers. By leveraging AI-driven market intelligence, IoT-based soil monitoring, and a seamless Vendor Cart System, Annadata eliminates middlemen, ensures fair pricing, and optimizes logistics for efficient farm-to-market transactions.",
-    image: "/placeholder.svg",
+    image: "https://ibb.co/Gfg2Y53b",
     tech: ["AI", "IoT", "Market Intelligence", "Supply Chain"],
     date: "August 2024 – Present",
     liveUrl: "#",
